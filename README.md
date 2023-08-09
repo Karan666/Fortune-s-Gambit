@@ -11,13 +11,13 @@ A simple web-based Dice game where you can have fun rolling virtual dice and see
 5. The player with the higher dice number wins the game!
 
 ## **Technologies Used:**
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## **Credits:**
-Fonts: Indie Flower, Lobster
-Dice images: Dice6.png
+- Fonts: Indie Flower, Lobster
+- Dice images: Dice6.png
 
 ## **About:**
 This project is a small implementation of a dice game using frontend web technologies. It was created for fun and learning purposes, showcasing how random values can be generated and displayed on a webpage using JavaScript. Feel free to explore the code and make any improvements or modifications as you like. Enjoy rolling the dice and have a great time playing with friends or by yourself! 🎲🎉
