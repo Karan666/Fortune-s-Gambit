@@ -17,12 +17,6 @@ A simple web-based Dice game where you can have fun rolling virtual dice and see
 - HTML
 - CSS
 - JavaScript
-
-
-## **Credits:**
-
-- Fonts: Indie Flower, Lobster
-- Dice images: Dice6.png
   
 
 ## **About:**
