@@ -1,7 +1,10 @@
 # Fortune-s-Gambit
-🎲 Welcome to my Fun Dice Game! Press refresh for a random dice roll. Embrace the excitement of uncertainty and let the fun begin! 🎉💫
+
+Welcome to my Fun Dice Game! Press refresh for a random dice roll. Embrace the excitement of uncertainty and let the fun begin! 
+
 
 A simple web-based Dice game where you can have fun rolling virtual dice and see which player gets the higher number.
+
 
 ## **Instructions:**
 
